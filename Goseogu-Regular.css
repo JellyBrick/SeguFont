@@ -1,0 +1,9 @@
+/* Webfont: Goseogu-Regular */@font-face {
+    font-family: 'Goseogu';
+    src: url('https://cdn.jsdelivr.net/gh/JellyBrick/SeguFont/Goseogu/Goseogu-Regular.woff') format('woff'), /* Modern Browsers */
+         url('https://cdn.jsdelivr.net/gh/JellyBrick/SeguFont/Goseogu/Goseogu-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('https://cdn.jsdelivr.net/gh/JellyBrick/SeguFont/Goseogu/Goseogu-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}

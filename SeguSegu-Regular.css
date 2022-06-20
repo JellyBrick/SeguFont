@@ -1,0 +1,9 @@
+/* Webfont: SeguSegu-Regular */@font-face {
+    font-family: 'SeguSegu';
+    src: url('https://cdn.jsdelivr.net/gh/JellyBrick/SeguFont/SeguSegu/SeguSegu-Regular.woff') format('woff'), /* Modern Browsers */
+         url('https://cdn.jsdelivr.net/gh/JellyBrick/SeguFont/SeguSegu/SeguSegu-Regular.woff2') format('woff2'), /* Modern Browsers */
+         url('https://cdn.jsdelivr.net/gh/JellyBrick/SeguFont/SeguSegu/SeguSegu-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
