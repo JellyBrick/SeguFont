@@ -6,6 +6,10 @@
 
 TTF 및 OTF 폰트는 [릴리즈](https://github.com/JellyBrick/SeguFont/releases)에서 다운로드 할 수 있습니다.
 
+## 데모
+
+[해당 웹페이지](https://jellybrick.github.io/SeguFont/index.html)에서 폰트 데모를 확인하실 수 있습니다.
+
 ## 고서구체 (Goseogu)
 
 - HTML 문서에 적용
